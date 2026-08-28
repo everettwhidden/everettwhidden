@@ -1,4 +1,4 @@
-## Hi there 👋
+## Junior in High School programming for fun
 
 <!--
 **everettwhidden/everettwhidden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
