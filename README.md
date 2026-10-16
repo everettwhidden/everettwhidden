@@ -1,4 +1,4 @@
-## Junior in High School programming for fun
+## Junior in High School who is learning and improving.
 
 <!--
 **everettwhidden/everettwhidden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
